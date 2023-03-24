@@ -1,5 +1,5 @@
 # PINN-for-Navier-Stokes
-References: 
+**References:** 
 
 Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707.
 
